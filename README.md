@@ -2,11 +2,11 @@
 
 Transpiles [lita lang](https://github.com/fmaurica/lita) to javascript
 
-## ✨ Npm typescript rollup
+### ✨ Npm typescript rollup
 
 ready-to-publish npm package typescript template that uses rollup to bundle the final build
 
-### 💉 Use this template
+#### 💉 Use this template
 
 Prerequisites: [Proplate](https://github.com/YumeT023/proplate)
 
@@ -14,7 +14,7 @@ Prerequisites: [Proplate](https://github.com/YumeT023/proplate)
 proplate create --template https://github.com/YumeT023/npm-typescript-starter --dest output-dir
 ```
 
-### ✨ What does this template include ?
+#### ✨ What does this template include ?
 
 - **Everything is preconfigured. Feel free to edit them.**
 - Code Formatter and linter is fully configured using [Prettier](https://prettier.io/) and [Eslint](https://eslint.org).
@@ -32,7 +32,7 @@ proplate create --template https://github.com/YumeT023/npm-typescript-starter --
   - `test>` Runs all the tests (_located in `src/__tests__`_)
   - `format>` Formats your codebase using **prettier**
 
-### 📝 Publish ?
+#### 📝 Publish ?
 
 This template is made so that you don't have to spend your time repeat the same configurations.
 _remove `yarn.lock` if you use npm and use `npm` in the command line_
